@@ -82,7 +82,7 @@ let fullName = `${firstName[0].toUpperCase()}${firstName
 
 // document object model
 
-document.body.style.backgroundColor = "yellow";
+document.body.style.backgroundColor = "grey";
 
 let title = document.getElementById("test");
 title.innerHTML = "test2";
